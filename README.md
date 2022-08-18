@@ -1,8 +1,6 @@
 # Data Jobs salaries and perspectives 2020/2022
  A storytelling job, salaries and perspectives analysis on Data fields from 2020 until early 2022
 
-# Data Fields jobs, salaries and perspective 2020/2022
- 
 Goal:
 
    This project focuses on presenting to interested parties or students dedicated to training in data science and its various specialties, a summarized overview of job opportunities around the world with the respective salary ranges of the profession, taking as a reference the information acquired between period of the year 2020 to date.
